@@ -6,7 +6,7 @@
     "bio": "",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "wn.farmhome@gmail.com",
-    "phone": "093-0939309116",
+    "phone": "0939309116",
     "github": "https://github.com/farmhome123",
     "project": "https://github.com/farmhome123",
     "address": {
@@ -30,12 +30,12 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา",
         "degree": "ปริญญาตรี",
-        "graduated": "2065",
+        "graduated": "2565",
         "description": "วิศวกรรมคอมพิวเตอร์"
       },
       {
